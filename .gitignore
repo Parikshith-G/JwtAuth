@@ -1,0 +1,16 @@
+# Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+.project
+.classpath
+.settings/
+.idea/
+
+# Angular
+/dist/
+/node_modules/
+/src/environments/environment*.ts
